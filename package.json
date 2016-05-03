@@ -1,9 +1,9 @@
 {
-  "name": "hackathon-starter",
+  "name": "aj-landing-server",
   "version": "3.5.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/anthonyjillions/landing-server.git"
   },
   "scripts": {
     "start": "node app.js",

@@ -5,10 +5,7 @@ var session = require('express-session');
 var bodyParser = require('body-parser');
 var logger = require('morgan');
 var errorHandler = require('errorhandler');
-var dotenv = require('dotenv');
 var path = require('path');
-
-dotenv.load({ path: '.env' });
 
 var contactController = require('./controllers/contact');
 
